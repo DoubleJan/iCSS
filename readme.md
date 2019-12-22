@@ -162,20 +162,36 @@ CSS 奇技淫巧，在这里，都有。
 
 #### 52、[A Guide to CSS Rules](https://github.com/chokcoco/iCSS/issues/67)
 
-#### 59、[你所不知道的 CSS 负值技巧与细节](https://github.com/chokcoco/iCSS/issues/68)
+#### 53、[你所不知道的 CSS 负值技巧与细节](https://github.com/chokcoco/iCSS/issues/68)
+
+#### 54、[Web 字体 font-family 再探秘](https://github.com/chokcoco/iCSS/issues/69)
+
+#### 55、[CSS 阴影动画优化技巧一则](https://github.com/chokcoco/iCSS/issues/71)
+
+#### 56、[在 CSS 中使用三角函数绘制曲线图形及展示动画](https://github.com/chokcoco/iCSS/issues/72)
+
+#### 57、[使用 sroll-snap-type 优化滚动](https://github.com/chokcoco/iCSS/issues/74)
+
+#### 58、[巧用 CSS 实现酷炫的电池充电动画](https://github.com/chokcoco/iCSS/issues/75)
 
 -------
 > （正在写但未完成的）
 
-#### 53、[如何使用 CSS 让你的浏览器卡死崩溃](https://github.com/chokcoco/iCSS/issues/47)
+#### 59、[如何使用 CSS 让你的浏览器卡死崩溃](https://github.com/chokcoco/iCSS/issues/47)
 
-#### 55、[Web响应式布局与兼容性](https://github.com/chokcoco/iCSS/issues/66)
+#### 60、CSS 动画与性能进阶
 
-#### 56、CSS 动画进阶
+#### 61、噪声在CSS中的应用
 
-#### 57、CSS Grid 艺术
+#### 62、[CSS艺术 -- 新时代布局](https://github.com/chokcoco/iCSS/issues/70)
 
-#### 58、噪声在CSS中的应用
+#### 63、[CSS 在夜间模式/深色模式中的使用与探索](https://github.com/chokcoco/iCSS/issues/73)
+
+#### 64、CSS Grid 艺术
+
+
+
+
 
 ## Contact Me
 
